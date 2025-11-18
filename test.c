@@ -2,5 +2,5 @@
 #include <stdio.h>
 
 int main(){
-    printf("これはバージョン1です。");
+    printf("これはバージョン2です。");
 }
